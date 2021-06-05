@@ -1,1 +1,1 @@
-# SOD-recipes
+# SOD recipes
