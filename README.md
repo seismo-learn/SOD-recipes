@@ -12,7 +12,7 @@ the [SOD tutorials](https://seismo-learn.org/software/sod/) (in Chinese).
 
 ```
 # Clone the repository
-$ git clone git@github.com:seismo-learn/SOD-recipes.git
+$ git clone https://github.com/seismo-learn/SOD-recipes.git
 ```
 
 ## Recipes
